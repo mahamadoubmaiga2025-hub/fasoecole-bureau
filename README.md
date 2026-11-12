@@ -6,14 +6,16 @@
 
 ## Télécharger
 
-➡️ **[Télécharger FasoÉcole Bureau 1.5.0 (Windows, 167 Mo)](https://github.com/mahamadoubmaiga2025-hub/fasoecole-bureau/releases/download/v1.5.0/FasoEcole-Bureau-1.5.0-Setup.zip)**
+➡️ **[Télécharger FasoÉcole Bureau 1.5.0 (Windows, 114 Mo)](https://github.com/mahamadoubmaiga2025-hub/fasoecole-bureau/releases/download/v1.5.0/FasoEcole-Bureau-Setup-1.5.0.exe)**
 
 ## Installation
 
-1. Décompressez le fichier téléchargé.
-2. Double-cliquez sur **SETUP.bat**, lisez le contrat de licence et cliquez **« J'accepte »**.
+1. Téléchargez **FasoEcole-Bureau-Setup-1.5.0.exe** et double-cliquez dessus : l'assistant d'installation s'ouvre en français.
+2. Lisez le **contrat de licence** et acceptez-le pour continuer.
 3. Le programme s'installe avec ses raccourcis (Bureau + menu Démarrer) et se lance.
 4. Activez votre licence avec la clé fournie lors de l'achat.
+
+Désinstallation : par les Paramètres Windows (Applications), comme tout logiciel.
 
 > Au premier lancement, Windows peut afficher un avertissement SmartScreen : cliquez « Informations complémentaires » puis « Exécuter quand même ».
 

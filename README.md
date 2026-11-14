@@ -6,13 +6,13 @@
 
 ## Télécharger
 
-➡️ **[Télécharger FasoÉcole Bureau 1.6.0 (Windows, 114 Mo)](https://github.com/mahamadoubmaiga2025-hub/fasoecole-bureau/releases/download/v1.6.0/FasoEcole-Bureau-Setup-1.6.0.exe)**
+➡️ **[Télécharger FasoÉcole Bureau 1.7.0 (Windows, 114 Mo)](https://github.com/mahamadoubmaiga2025-hub/fasoecole-bureau/releases/download/v1.7.0/FasoEcole-Bureau-Setup-1.7.0.exe)**
 
-📖 **[Guide d’utilisation complet (PDF, 10 pages)](https://github.com/mahamadoubmaiga2025-hub/fasoecole-bureau/releases/download/v1.6.0/Guide-utilisation-FasoEcole-Bureau.pdf)** — installation, mise en service, gestes quotidiens, sauvegardes, dépannage.
+📖 **[Guide d’utilisation complet (PDF, 10 pages)](https://github.com/mahamadoubmaiga2025-hub/fasoecole-bureau/releases/download/v1.7.0/Guide-utilisation-FasoEcole-Bureau.pdf)** — installation, mise en service, gestes quotidiens, sauvegardes, dépannage.
 
 ## Installation
 
-1. Téléchargez **FasoEcole-Bureau-Setup-1.6.0.exe** et double-cliquez dessus : l'assistant d'installation s'ouvre en français.
+1. Téléchargez **FasoEcole-Bureau-Setup-1.7.0.exe** et double-cliquez dessus : l'assistant d'installation s'ouvre en français.
 2. Lisez le **contrat de licence** et acceptez-le pour continuer.
 3. Le programme s'installe avec ses raccourcis (Bureau + menu Démarrer) et se lance.
 4. Activez votre licence avec la clé fournie lors de l'achat.

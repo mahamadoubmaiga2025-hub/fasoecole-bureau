@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Manual</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>Mahamadou Boubacar Maïga</Company_Name>
+    <Country>Mali</Country>
+    <City>Bamako</City>
+    <Company_WebSite_URL>https://github.com/mahamadoubmaiga2025-hub/fasoecole-bureau</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Mahamadou Boubacar</Author_First_Name>
+      <Author_Last_Name>Maïga</Author_Last_Name>
+      <Author_Email>mahamadoubmaiga1@gmail.com</Author_Email>
+      <Contact_First_Name>Mahamadou Boubacar</Contact_First_Name>
+      <Contact_Last_Name>Maïga</Contact_Last_Name>
+      <Contact_Email>mahamadoubmaiga1@gmail.com</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>mahamadoubmaiga1@gmail.com</Sales_Email>
+      <Support_Email>mahamadoubmaiga1@gmail.com</Support_Email>
+      <General_Email>mahamadoubmaiga1@gmail.com</General_Email>
+      <Sales_Phone>+223 72 07 20 72</Sales_Phone>
+      <Support_Phone>+223 72 07 20 72</Support_Phone>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>FasoÉcole Bureau</Program_Name>
+    <Program_Version>1.7.0</Program_Version>
+    <Program_Release_Month>11</Program_Release_Month>
+    <Program_Release_Day>14</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>25.00</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>FCFA</Program_Cost_Other_Code>
+    <Program_Cost_Other>15000</Program_Cost_Other>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win10,Win11</Program_OS_Support>
+    <Program_Language>French</Program_Language>
+    <Program_Change_Info>New in 1.7.0: each school can import its own logo and stamp and pick its display colour; the app and all PDF documents take on the school's identity.</Program_Change_Info>
+    <Program_Specific_Category>Education</Program_Specific_Category>
+    <Program_Category_Class>Education::Teaching &amp; Training Tools</Program_Category_Class>
+    <Program_System_Requirements>Windows 10 or 11 (64-bit), 4 GB RAM, 500 MB disk space. No internet connection required.</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>120006398</File_Size_Bytes>
+      <File_Size_K>117194</File_Size_K>
+      <File_Size_MB>114.44</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>school management, private school, school fees, unpaid fees, report cards, offline, Mali, Africa, education</Keywords>
+      <Char_Desc_45>Complete private-school management, offline</Char_Desc_45>
+      <Char_Desc_80>Complete private-school management on Windows, 100% offline.</Char_Desc_80>
+      <Char_Desc_250>FasoÉcole Bureau runs an entire private school from one Windows PC, with no internet at all: enrolments, school fees, receipts, unpaid balances, grades and report cards, attendance and expenses. Built for schools in Mali and West Africa.</Char_Desc_250>
+      <Char_Desc_450>FasoÉcole Bureau replaces the paper notebooks many private schools still rely on. It installs on an ordinary Windows computer and works 100% offline: student records with photos, enrolment fees and instalments, numbered receipts, an always-current unpaid list, grade entry with automatic averages, PDF report cards, attendance, timetables and expenses. New in 1.7.0: schools import their own logo and stamp and pick their colour.</Char_Desc_450>
+      <Char_Desc_2000>FasoÉcole Bureau is complete management software for private schools, designed for Mali and West Africa, that runs entirely offline on a Windows PC. Students and enrolments: complete records with photos, automatic student IDs, history by school year. Money with no blind spots: enrolment fees and per-class instalments, numbered receipts printed in one click, discounts, an always-current list of unpaid fees, WhatsApp reminders, a cash journal and financial statements. Academics: subjects and coefficients, grade entry by teachers, automatically computed averages, PDF report cards and transcripts. School life: attendance with reasons, timetables, school expenses, and optional canteen, transport and library modules. Official documents (receipts, transcripts, report cards, certificates, student ID cards) are generated as PDFs in the school's own branding: since 1.7.0 each school can import its logo and stamp and choose its display colour, applied both in the app and on every document. Team work is covered by director, secretary, accountant and teacher roles protected by PIN codes, plus a multi-workstation mode over the school's local network — still fully offline. Automatic daily backups and password-protected exports keep data safe. Activation is by licence key (1 month, 3 months, 6 months, 1 year or lifetime); contact the publisher for a demonstration key. Installation and one hour of training are included with every licence.</Char_Desc_2000>
+    </English>
+    <French>
+      <Keywords>gestion scolaire, école privée, scolarité, impayés, bulletins, hors-ligne, Mali, Afrique, éducation</Keywords>
+      <Char_Desc_45>Gestion d'école privée complète, hors-ligne</Char_Desc_45>
+      <Char_Desc_80>La gestion complète de votre école privée, 100 % hors-ligne, sur Windows.</Char_Desc_80>
+      <Char_Desc_250>FasoÉcole Bureau gère toute l'école privée depuis un ordinateur Windows, sans internet : inscriptions, frais de scolarité, reçus, impayés, notes et bulletins, absences, dépenses. Pensé pour les écoles du Mali et d'Afrique de l'Ouest.</Char_Desc_250>
+      <Char_Desc_450>FasoÉcole Bureau remplace les cahiers sur lesquels reposent encore beaucoup d'écoles privées. Il s'installe sur un ordinateur Windows ordinaire et fonctionne à 100 % hors-ligne : dossiers d'élèves avec photo, frais et tranches, reçus numérotés, liste des impayés toujours à jour, saisie des notes et moyennes automatiques, bulletins PDF, absences, emplois du temps et dépenses. Nouveau en 1.7.0 : le logo, le tampon et la couleur de votre école.</Char_Desc_450>
+      <Char_Desc_2000>FasoÉcole Bureau est un logiciel complet de gestion d'école privée, conçu pour le Mali et l'Afrique de l'Ouest, qui fonctionne entièrement hors-ligne sur un PC Windows. Élèves et inscriptions : dossiers complets avec photo, matricule automatique, historique par année scolaire. L'argent sans angle mort : frais d'inscription et tranches par classe, reçus numérotés imprimés en un clic, remises, liste des impayés toujours à jour, relances WhatsApp, journal de caisse et état financier. Pédagogie : matières et coefficients, saisie des notes par les enseignants, moyennes calculées automatiquement, bulletins et relevés en PDF. Vie scolaire : appels et absences avec motifs, emplois du temps, dépenses, et modules optionnels cantine, transport et bibliothèque. Les documents officiels (reçus, relevés, bulletins, attestations, cartes d'élèves) sont générés en PDF aux couleurs de l'école : depuis la 1.7.0, chaque école importe son logo et son tampon et choisit sa couleur d'affichage, dans le logiciel comme sur les documents. Le travail en équipe est assuré par les rôles directeur, secrétaire, comptable et enseignant protégés par code PIN, et par un mode multi-postes sur le réseau local de l'école, toujours sans internet. Sauvegardes automatiques quotidiennes et exports protégés par mot de passe protègent les données. L'activation se fait par clé de licence (1 mois, 3 mois, 6 mois, 1 an ou à vie) ; contactez l'éditeur pour une clé de démonstration. Installation et une heure de formation incluses dans chaque licence.</Char_Desc_2000>
+    </French>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://github.com/mahamadoubmaiga2025-hub/fasoecole-bureau</Application_Info_URL>
+      <Application_Order_URL>https://github.com/mahamadoubmaiga2025-hub/fasoecole-bureau</Application_Order_URL>
+      <Application_Screenshot_URL></Application_Screenshot_URL>
+      <Application_Icon_URL></Application_Icon_URL>
+      <Application_XML_File_URL></Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/mahamadoubmaiga2025-hub/fasoecole-bureau/releases/download/v1.7.0/FasoEcole-Bureau-Setup-1.7.0.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://github.com/mahamadoubmaiga2025-hub/fasoecole-bureau/releases/tag/v1.7.0</Secondary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>May be freely distributed via download sites and catalogues, provided the installer is distributed unmodified and free of charge to download.</Distribution_Permissions>
+    <EULA>See the licence agreement (Contrat de licence) displayed during installation. The software is the exclusive intellectual property of Mahamadou Boubacar Maïga; activation requires a licence key issued by the publisher.</EULA>
+  </Permissions>
+</XML_DIZ_INFO>
